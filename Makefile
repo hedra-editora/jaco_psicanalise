@@ -1,4 +1,5 @@
 all:
+	git log -1 --date=short --format=format:'\newcommand{\RevisionInfo}{%h}' > gitrevisioninfo.sty
 	latexmk -xelatex -interaction=nonstopmode LIVRO.tex
 erros:
 	-grep --color=auto "LaTeX Error" LIVRO.log
