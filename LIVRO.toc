@@ -1,13 +1,13 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{O Respeito pelo Paciente\emph {, por{} Renato Bulcão}}{7}
-\contentsline {part}{Uma visão da psicanálise}{11}
-\contentsline {chapter}{Psicanalise da Espera}{13}
-\contentsline {chapter}{Primeiro diálogo}{15}
-\contentsline {chapter}{Segundo diálogo}{41}
-\contentsline {chapter}{Terceiro diálogo}{61}
-\contentsline {chapter}{Quarto diálogo}{77}
-\contentsline {chapter}{Quinto diálogo}{99}
-\contentsline {chapter}{Posfácio\emph {, por{} Sandra Magalhães}}{115}
-\contentsline {section}{Obras publicadas}{119}
+\contentsline {chapter}{O Respeito pelo Paciente\emph {, por{} Renato Bulcão}}{9}
+\contentsline {part}{Uma visão da psicanálise}{13}
+\contentsline {chapter}{Psicanalise da Espera}{15}
+\contentsline {chapter}{Primeiro diálogo}{17}
+\contentsline {chapter}{Segundo diálogo}{43}
+\contentsline {chapter}{Terceiro diálogo}{63}
+\contentsline {chapter}{Quarto diálogo}{79}
+\contentsline {chapter}{Quinto diálogo}{101}
+\contentsline {chapter}{Posfácio\emph {, por{} Sandra Magalhães}}{117}
+\contentsline {section}{Obras publicadas}{121}
 \contentsfinish 

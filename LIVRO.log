@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.12.9)  16 SEP 2016 17:58
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.12.9)  16 SEP 2016 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1248,8 +1248,7 @@ Package color Info: Driver file: xetex.def on input line 130.
 ))
 (./fichatecnica.sty) (/home/editorial/texmf/tex/aparatos.sty
 (/home/editorial/texmf/tex/listingx.sty)
-(/home/editorial/texmf/tex/frontlayout.sty))
-(/home/editorial/texmf/tex/fronthedra.tex)
+(/home/editorial/texmf/tex/frontlayout.sty)) (./fronthedra.tex)
 (/home/editorial/texmf/tex/tabelas.sty
 (/usr/share/texlive/texmf-dist/tex/latex/xtab/xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
@@ -1353,8 +1352,8 @@ e .
 \ctbl@t=\box55
 \@ctblcurftwidth=\dimen316
 )) (/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
-(/home/editorial/texmf/tex/commands.sty) (./LIVRO.aux (./INPUTS.aux)
-(./PUBLICIDADE.aux))
+(/home/editorial/texmf/tex/commands.sty) (./LIVRO.aux (./DEDICATORIA.aux)
+(./INPUTS.aux) (./PUBLICIDADE.aux))
 \openout1 = `LIVRO.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -1565,32 +1564,43 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 
+Overfull \hbox (1.23997pt too wide) detected at line 10
+ \EU1/LinuxLibertineO(0)/m/n/12 101
+ []
+
+
 Overfull \hbox (1.23997pt too wide) detected at line 11
- \EU1/LinuxLibertineO(0)/m/n/12 115
+ \EU1/LinuxLibertineO(0)/m/n/12 117
  []
 
 ) [5]
-\openout2 = `INPUTS.aux'.
+\openout2 = `DEDICATORIA.aux'.
 
- (./INPUTS.tex (./ORESPEITOPELOPACIENTE231.tex [6
+ (./DEDICATORIA.tex [6
 
 
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 1.
- [7] [8] [9] [10]
-[11
+(Font)              <12> on input line 14.
+) [7]
+\openout2 = `INPUTS.aux'.
 
-] [12]) (./PSICANALISEDAESPERA233.tex
+ (./INPUTS.tex (./ORESPEITOPELOPACIENTE231.tex [8
+
+
+
+] [9] [10] [11] [12] [13
+
+] [14]) (./PSICANALISEDAESPERA233.tex
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [13
+ [15
 
-]) (./PRIMEIRODIALOGO234.tex
-[14]
+])
+(./PRIMEIRODIALOGO234.tex [16]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1601,62 +1611,62 @@ Underfull \hbox (badness 2401) in paragraph at lines 20--26
 as.
  []
 
-[15
+[17
 
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
- [16] [17] [18] [19] [20] [21] [22] [23] [24]
+ [18] [19] [20] [21] [22] [23] [24] [25] [26]
 Underfull \hbox (badness 2626) in paragraph at lines 360--364
 \EU1/LinuxLibertineO(0)/m/n/12 Hitler e Mussolini não teatralizaram, vampirizar
 am.
  []
 
-[25] [26] [27] [28]
+[27] [28] [29] [30]
 Overfull \hbox (0.3347pt too wide) in paragraph at lines 527--533
 \EU1/LinuxLibertineO(0)/m/n/12 empobrecida. Os medíocres são hipócritas e os me
 díocres
  []
 
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38]) (./SEGUNDODIALOGO236.tex
-[39] [40
+[31] [32] [33] [34] [35] [36] [37] [38] [39] [40]) (./SEGUNDODIALOGO236.tex
+[41] [42
 
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [41] [42] [43] [44]
+ [43] [44] [45] [46]
 Overfull \hbox (12.18001pt too wide) in paragraph at lines 138--143
 \EU1/LinuxLibertineO(0)/m/n/12 ses tem inclusive um conceito do “maladie d’amou
 r.”(doença
  []
 
-[45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59])
-(./TERCEIRODIALOGO237.tex [60] [61
+[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61])
+(./TERCEIRODIALOGO237.tex [62] [63
 
-] [62] [63] [64] [65] [66] [67] [68] [69]
-[70] [71] [72] [73] [74] [75]) (./QUARTODIALOGO238.tex [76] [77
+] [64] [65] [66] [67] [68] [69] [70] [71]
+[72] [73] [74] [75] [76] [77]) (./QUARTODIALOGO238.tex [78] [79
 
-] [78] [79]
-[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94]
-[95]) (./QUINTODIALOGO239.tex [96] [97] [98
+] [80] [81]
+[82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96]
+[97]) (./QUINTODIALOGO239.tex [98] [99] [100
 
-] [99] [100] [101] [102] [103]
+] [101] [102] [103] [104] [105]
 Underfull \hbox (badness 1394) in paragraph at lines 162--167
 []\EU1/LinuxLibertineO(0)/m/n/12 Ela não poderia ser judaico — germânica no Bra
 sil.
  []
 
-[104] [105] [106] [107] [108] [109] [110] [111] [112]) (./POSFACIO240.tex
-[113] [114
+[106] [107] [108] [109] [110] [111] [112] [113] [114]) (./POSFACIO240.tex
+[115] [116
 
 ]
 Underfull \hbox (badness 1067) in paragraph at lines 4--11
 []\EU1/LinuxLibertineO(0)/m/n/12 Em sua amplitude, Jacob Pinheiro Goldberg vem
  []
 
-[115] [116] [117] [118
+[117] [118] [119] [120
 
-] [119] [120] [121] [122] [123])) [124] [125]
+] [121] [122] [123] [124] [125])) [126] [127]
 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
@@ -1668,7 +1678,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-[126
+[128
 
 
 
@@ -1676,27 +1686,28 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [127]
+ [129]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [128] [129])
+ [130] [131])
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 26.
- [130
+ [132
 
 
 ]
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
- (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
+ (./LIVRO.aux (./DEDICATORIA.aux) (./INPUTS.aux)
+(./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 24904 strings out of 493918
- 461409 string characters out of 6150563
- 658303 words of memory out of 5000000
- 27671 multiletter control sequences out of 15000+600000
+ 24914 strings out of 493918
+ 461522 string characters out of 6150563
+ 659311 words of memory out of 5000000
+ 27674 multiletter control sequences out of 15000+600000
  17409 words of font info for 98 fonts, out of 8000000 for 9000
  1168 hyphenation exceptions out of 8191
  58i,12n,55p,10420b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.pdf (130 pages).
+Output written on LIVRO.pdf (132 pages).
