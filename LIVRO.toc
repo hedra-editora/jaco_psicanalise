@@ -4,10 +4,9 @@
 \contentsline {part}{Uma visão da psicanálise}{13}
 \contentsline {chapter}{Psicanalise da Espera}{15}
 \contentsline {chapter}{Primeiro diálogo}{17}
-\contentsline {chapter}{Segundo diálogo}{43}
-\contentsline {chapter}{Terceiro diálogo}{63}
-\contentsline {chapter}{Quarto diálogo}{79}
-\contentsline {chapter}{Quinto diálogo}{101}
-\contentsline {chapter}{Posfácio\emph {, por{} Sandra Magalhães}}{117}
-\contentsline {section}{Obras publicadas}{121}
+\contentsline {chapter}{Segundo diálogo -- O carisma do homem comum}{43}
+\contentsline {chapter}{Terceiro diálogo -- Só pobre sofre por inteiro}{63}
+\contentsline {chapter}{Quarto diálogo -- Eu sou um negro}{79}
+\contentsline {chapter}{Quinto diálogo -- Teoria da psicanálise social}{99}
+\contentsline {chapter}{Obras publicadas}{115}
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.12.9)  16 SEP 2016 18:23
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.12.9)  16 SEP 2016 19:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1564,13 +1564,8 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 
-Overfull \hbox (1.23997pt too wide) detected at line 10
- \EU1/LinuxLibertineO(0)/m/n/12 101
- []
-
-
 Overfull \hbox (1.23997pt too wide) detected at line 11
- \EU1/LinuxLibertineO(0)/m/n/12 117
+ \EU1/LinuxLibertineO(0)/m/n/12 115
  []
 
 ) [5]
@@ -1631,68 +1626,59 @@ díocres
 [31] [32] [33] [34] [35] [36] [37] [38] [39] [40]) (./SEGUNDODIALOGO236.tex
 [41] [42
 
-]
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [43] [44] [45] [46]
-Overfull \hbox (12.18001pt too wide) in paragraph at lines 138--143
+] [43] [44] [45] [46]
+Overfull \hbox (12.18001pt too wide) in paragraph at lines 137--142
 \EU1/LinuxLibertineO(0)/m/n/12 ses tem inclusive um conceito do “maladie d’amou
 r.”(doença
  []
 
-[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61])
-(./TERCEIRODIALOGO237.tex [62] [63
+[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60])
+(./TERCEIRODIALOGO237.tex [61] [62] [63
 
-] [64] [65] [66] [67] [68] [69] [70] [71]
-[72] [73] [74] [75] [76] [77]) (./QUARTODIALOGO238.tex [78] [79
+] [64] [65] [66] [67] [68] [69] [70]
+[71] [72] [73] [74] [75] [76] [77]) (./QUARTODIALOGO238.tex [78] [79
 
-] [80] [81]
-[82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96]
-[97]) (./QUINTODIALOGO239.tex [98] [99] [100
+] [80]
+[81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95]
+[96] [97]) (./QUINTODIALOGO239.tex [98] [99
 
-] [101] [102] [103] [104] [105]
+] [100] [101] [102] [103]
 Underfull \hbox (badness 1394) in paragraph at lines 162--167
 []\EU1/LinuxLibertineO(0)/m/n/12 Ela não poderia ser judaico — germânica no Bra
 sil.
  []
 
-[106] [107] [108] [109] [110] [111] [112] [113] [114]) (./POSFACIO240.tex
-[115] [116
+[104] [105] [106] [107] [108] [109] [110] [111] [112]) (./POSFACIO240.tex
+[113] [114
 
-]
-Underfull \hbox (badness 1067) in paragraph at lines 4--11
-[]\EU1/LinuxLibertineO(0)/m/n/12 Em sua amplitude, Jacob Pinheiro Goldberg vem
- []
+] [115
 
-[117] [118] [119] [120
-
-] [121] [122] [123] [124] [125])) [126] [127]
+] [116] [117] [118] [119])) [120]
 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
-(/home/editorial/texmf/tex/PUBLICIDADE.tex
+(/home/editorial/texmf/tex/PUBLICIDADE.tex [121
+
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-[128
-
-
-
-
-]
+[122]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [129]
+ [123]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [130] [131])
+ [124] [125])
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 26.
- [132
+ [126
 
 
 ]
@@ -1702,12 +1688,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  (./LIVRO.aux (./DEDICATORIA.aux) (./INPUTS.aux)
 (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 24914 strings out of 493918
- 461522 string characters out of 6150563
- 659311 words of memory out of 5000000
- 27674 multiletter control sequences out of 15000+600000
- 17409 words of font info for 98 fonts, out of 8000000 for 9000
+ 24910 strings out of 493918
+ 461320 string characters out of 6150563
+ 659313 words of memory out of 5000000
+ 27671 multiletter control sequences out of 15000+600000
+ 17401 words of font info for 97 fonts, out of 8000000 for 9000
  1168 hyphenation exceptions out of 8191
- 58i,12n,55p,10420b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,12n,55p,10420b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.pdf (132 pages).
+Output written on LIVRO.pdf (126 pages).
