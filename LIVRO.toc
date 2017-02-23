@@ -1,12 +1,12 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{O Respeito pelo Paciente\emph {, por{} Renato Bulcão (\emph {org.})}}{9}
-\contentsline {part}{Uma visão da psicanálise}{15}
-\contentsline {chapter}{Psicanalise da Espera}{17}
-\contentsline {chapter}{Primeiro diálogo}{19}
-\contentsline {chapter}{Segundo diálogo -- O carisma do homem comum}{49}
-\contentsline {chapter}{Terceiro diálogo -- Só pobre sofre por inteiro}{73}
-\contentsline {chapter}{Quarto diálogo -- Eu sou um negro}{93}
-\contentsline {chapter}{Quinto diálogo -- Teoria da psicanálise social}{119}
-\contentsline {chapter}{Obras publicadas}{137}
+\contentsline {part}{Uma visão da psicanálise}{13}
+\contentsline {chapter}{Psicanalise da Espera}{15}
+\contentsline {chapter}{Primeiro diálogo}{17}
+\contentsline {chapter}{Segundo diálogo -- O carisma do homem comum}{43}
+\contentsline {chapter}{Terceiro diálogo -- Só pobre sofre por inteiro}{63}
+\contentsline {chapter}{Quarto diálogo -- Eu sou um negro}{79}
+\contentsline {chapter}{Quinto diálogo -- Teoria da psicanálise social}{99}
+\contentsline {chapter}{Obras publicadas}{115}
 \contentsfinish 
