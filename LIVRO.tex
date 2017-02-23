@@ -1,8 +1,9 @@
-\documentclass[showtrims,12pt,conselho,spreadimages]{memoir}
+\documentclass[swiftneue,semcabeco,showtrims,12pt,conselho,spreadimages]{memoir}
 
-\usepackage[largepost]{hedraoptions} %% << %%%%%%%%%%%%%%%%
-\usepackage[baruch]{hedrastyles}
-\usepackage[xetex,chicagofootnotes]{tipografia}
+\usepackage{commands}
+\usepackage[almeida]{hedraoptions} %% << %%%%%%%%%%%%%%%%
+\usepackage[almeida]{hedrastyles}
+\usepackage[xetex]{tipografia}
 \usepackage[standart,sempontinhos]{toc}
 \usepackage{hedraextra}
 \usepackage{penalidades}
@@ -16,9 +17,10 @@
 \usepackage{gitrevisioninfo}
 
 %\linespread{1.08}
-\usepackage{commands}
+\renewcommand{\asterisc}{\begin{quote} \centering\raisebox{-3pt}{* * *} \end{quote}}
 
 \begin{document}
+
 
 %\include{TESTE}
 \include{INPUTS}

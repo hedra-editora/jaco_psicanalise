@@ -57,7 +57,7 @@ Foi feito o depósito legal.\\\endgroup
 \ifdef{\introdutor}{{\small {\introdutor} (\textit{introdução})} \par}{}
 \ifdef{\tradutor}{{\small {\tradutor} (\textit{tradução})}\par}{}\vspace{1.5cm}
 
-{{\footnotesize{} \ifdef{\numeroedicao}{\numeroedicao}{1}ª edição} \par}
+{{ \ifdef{\numeroedicao}{\numeroedicao}{1}ª edição} \par}
 
 %logos
 \vfill
@@ -66,8 +66,8 @@ Foi feito o depósito legal.\\\endgroup
 \par\clearpage\endgroup
 % Resumo -------------------------------------------------------
 \begingroup \footnotesize \parindent0pt \parskip 5pt \thispagestyle{empty} \vspace*{.25\textheight}\mbox{} \vfill
-\baselineskip=.92\baselineskip
-\IfFileExists{PRETAS.tex}{\input{PRETAS}}{% 
+\baselineskip=1.20\baselineskip
+\IfFileExists{PRETAS.tex}{\input{PRETAS}\par}{% 
 \ifdef{\resumo}{\resumo\par}{}
 \ifdef{\sobreobra}{\sobreobra}{}
 \ifdef{\sobreautor}{\mbox{}\vspace{4pt}\newline\sobreautor}{}
